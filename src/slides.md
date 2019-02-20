@@ -39,7 +39,7 @@ An introduction to the future
 👯 Clone it on [GitHub](//github.com/gatsbyjs/gatsby),  
 or create your own with Gatsby's CLI:
 
-![Monkey](//www.simpleimageresizer.com/_uploads/photos/04b9dd0e/9722ad9e7618b4768927c8ec6d882dd6_50.png)
+![Instructions](//i.imgur.com/q6gRXvP.png)
 
 <span style="font-size:small;">( gatsby new my-blazing-fast-site https://github.com/GatsbyCentral/gatsby-starter-wordpress )</span>
 
