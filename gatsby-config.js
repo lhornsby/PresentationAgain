@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `Matthew Hoth`,
+    title: `Gatsby Pres`,
+    date: `July 30, 2018`
   },
   plugins: [
     `gatsby-plugin-layout`,
@@ -12,8 +12,8 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `slides`,
-        path: `${__dirname}/src`,
-      },
-    },
-  ],
+        path: `${__dirname}/src`
+      }
+    }
+  ]
 };
