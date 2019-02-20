@@ -24,7 +24,9 @@ An introduction to the future
 
 ---
 
-# What sites JAMs?
+# Sites that JAM
+
+![Person](//media.giphy.com/media/rdXF0gnAyUAfK/giphy.gif)
 
 🛒 [Flamingo](//www.shopflamingo.com/products/shave-kit/) - A small business ecommerce site
 
@@ -34,15 +36,23 @@ An introduction to the future
 
 ---
 
-![Monkey](//i.imgur.com/PnbINJ6.gif)
+👯 Clone it on [GitHub](//github.com/gatsbyjs/gatsby),  
+or create your own with Gatsby's CLI:
 
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
+![Monkey](//www.simpleimageresizer.com/_uploads/photos/04b9dd0e/9722ad9e7618b4768927c8ec6d882dd6_50.png)
 
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+<span style="font-size:small;">( gatsby new my-blazing-fast-site https://github.com/GatsbyCentral/gatsby-starter-wordpress )</span>
+
+---
+
+...or just press the button
+
+![Smash](//media.giphy.com/media/3og0IAQG2BtR13joe4/giphy.gif)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/matthewhoth/Presentation)
 
 ---
 
 ## The possibilities are endless
 
-![Person](//i.imgur.com/p4rpmll.gif)
+![Person](//media.giphy.com/media/rdXF0gnAyUAfK/giphy.gif)
