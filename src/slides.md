@@ -81,4 +81,4 @@ or create your own with Gatsby's CLI:
 
 # 🏆
 
-Winner:
+Winner: Lindsay is the Best Lindsay Number One
