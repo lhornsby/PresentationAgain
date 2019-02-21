@@ -79,6 +79,8 @@ or create your own with Gatsby's CLI:
 
 ---
 
-# 🏆
+#
+
+<span style="font-size:larger;">🏆</span>
 
 Winner:
