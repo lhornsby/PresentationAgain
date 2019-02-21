@@ -10,29 +10,55 @@ An introduction to the future
 
 > <span style="font-size:larger; color:purple;">M</span>arkup is built during deployment, allowing files to be served for cheap over CDNs
 
-> <cite>Don Norman</cite>
+> <cite>Me 10 hours ago</cite>
 
 ---
 
-# 🤫
+# 🤔
 
 ---
 
-## Why isn't Amazon JAMazon?
+# **What's the difference?**
 
-![Snow](//media.tenor.com/images/51f5c305dc23a592a7bca97ad1d67011/tenor.gif)
+---
+
+Hyperdynamic
+
+World-class performance
+
+scalability
+
+Security
+
+**DX**
+
+UX
 
 ---
 
 # Sites that JAM
 
-![Person](//media.giphy.com/media/rdXF0gnAyUAfK/giphy.gif)
+![Sponge](//media.giphy.com/media/rdXF0gnAyUAfK/giphy.gif)
+
+📈 [PSDWizard](//psdwizard.com/) - Web development agency
 
 🛒 [Flamingo](//www.shopflamingo.com/products/shave-kit/) - A small business ecommerce site
 
-📒 [SmashingMagazine](//www.smashingmagazine.com/) - A publishcation sites with new articles everyday
+📒 [SmashingMagazine](//www.smashingmagazine.com/) - A front-end news publication site
 
-📈 [PSDWizard](//psdwizard.com/) - Web Development Agencies ;) ;)
+---
+
+## The most common process for deployment
+
+1. Make local changes to code.
+2. Push the changes to GitHub.
+3. A webhook notifies a server to build the project.
+4. A server pulls the new code from Github.
+5. The server builds the site.
+6. HTML files from the built project (along with any necessary assets) to a CDN.
+7. Server informs CDN to invalidate its cache (hopefully).
+8. ?????
+9. Profit.
 
 ---
 
