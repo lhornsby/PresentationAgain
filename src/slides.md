@@ -79,6 +79,6 @@ or create your own with Gatsby's CLI:
 
 ---
 
-#🏆
+# 🏆
 
 Winner:
