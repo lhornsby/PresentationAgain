@@ -22,11 +22,11 @@ An introduction to the future
 
 ---
 
-Hyperdynamic
+Flexibility
 
-World-class performance
+Performance
 
-scalability
+Scalability
 
 Security
 
@@ -44,7 +44,7 @@ UX
 
 🛒 [Flamingo](//www.shopflamingo.com/products/shave-kit/) - A small business ecommerce site
 
-📒 [SmashingMagazine](//www.smashingmagazine.com/) - A front-end news publication site
+📒 [SmashingMagazine](//www.smashingmagazine.com/) - A front-end news publication site by <span style="text-decoration: none;">[Nigel Thornberry](//i.kym-cdn.com/entries/icons/original/000/015/455/tumblr_static_nigel_thornberry.jpg)</span>
 
 ---
 
@@ -79,6 +79,6 @@ or create your own with Gatsby's CLI:
 
 ---
 
-## The possibilities are endless
+#🏆
 
-![Person](//media.giphy.com/media/rdXF0gnAyUAfK/giphy.gif)
+Winner:
